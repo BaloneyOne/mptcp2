@@ -1,0 +1,6 @@
+SimStart [Sat Oct 14 15:56:45 2017] simName[S0] Topology[FT] TotalHost[128] SocketType[MMPTCP] bwRatio[1:1] TrafficMatrix[SHORT_FLOW] FlowSizeThresh[100000] ShortFlowTM[PERMUTATION] BackgroundFlowTM[NONE] BackgroundFlowLimit[33] Seed[0] simInstance[0] Lamda[256] SimPeriod[20s] HostPerToR[4] CC[RTT_Compensator] FlowSize[0] ShortFlowSize[70000] LinkRate[100Mbps] LinkDelay[20us] AutoDupAck[On] DupAckThresh[3] isLimitedTx[Off] isRTOm[Off] RTOmin[ 200] isHotspot[Off]
+[:66:][+1+][=Short=][#15.3125#][*0.00521771*][$0$][!0!][(0)][@0@][^0^][&1&][_1_][%ns3::MMpTcpSocketBase%][/0.0011455/][~19~][¤200¤][{0}][-0-][|0|]
+[:29:][+1+][=Short=][#73.7045#][*0.0168395*][$0$][!0!][(0)][@0@][^0^][&8&][_3_][%ns3::MMpTcpSocketBase%][/0.00354167/][~7~][¤200¤][{0}][-0-][|0|]
+[:98:][+1+][=Short=][#80.0863#][*0.023054*][$0$][!0!][(0)][@0@][^0^][&8&][_8_][%ns3::MMpTcpSocketBase%][/0.00361962/][~7~][¤200¤][{0}][-0-][|0|]
+[:21:][+1+][=Short=][#14.5991#][*0.0118391*][$0$][!0!][(0)][@0@][^0^][&1&][_1_][%ns3::MMpTcpSocketBase%][/0.00284965/][~19~][¤200¤][{0}][-0-][|0|]
+[:103:][+1+][=Short=][#39.6821#][*0.0272044*][$0$][!0!][(0)][@0@][^0^][&8&][_1_][%ns3::MMpTcpSocketBase%][/0.00622141/][~19~][¤200¤][{0}][-0-][|0|]
