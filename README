@@ -1,1 +1,5 @@
-Maximum MultiPath TCP (MMPTCP)
+Instructions
+
+1. run ./setup.sh to setup environment
+2. to run a script, it has to be moved to scratch folder, and then run ./waf again 
+3. if you are running on seasnet, remove -std=c++11 from setup.sh script
